@@ -1,0 +1,10 @@
+nombre_pila	mascota
+marisol,gato
+ricardo,perro
+mario,perro
+victor,gato
+vanessa,gato
+azul,gato
+isaias,perro
+christian,gatos
+aldair,perezoso
