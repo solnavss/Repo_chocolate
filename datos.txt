@@ -8,3 +8,4 @@ azul,gato
 isaias,perro
 christian,gatos
 aldair,perezoso
+otro,otro
